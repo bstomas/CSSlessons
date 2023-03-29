@@ -1,0 +1,57 @@
+
+html {
+    box-sizing: border-box;
+  }
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+  }
+
+body {
+    background-color: #151515;
+    color: #ffffff;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 18px;
+    line-height: 1.56;
+    }
+
+h1 {
+    text-align: left;
+    font-size: 20px;
+}
+
+.contactme {
+    border: 0;
+    color: #ffffff;
+}
+
+.contactme:hover {
+    color: brown;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1110px;
+    margin: auto;
+  }
+
+.header-home {
+    color: #ffffff;
+    border: 0;
+}
+
+.header-home:hover {
+    color: brown;
+}
+
+.contactme:hover {
+    color: brown;
+}
+
+
+
+    
